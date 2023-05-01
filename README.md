@@ -15,6 +15,7 @@ To view forms, simply clone this repository and open the `index.html` file in yo
 Contributions are welcome! Please feel free to submit a pull request or open an issue for any bug fixes or feature requests.
 
 ## Web View
+https://nkrgupta999.github.io/Periodic_Table/
 
 ## LinkedIn 
 https://www.linkedin.com/in/nkrgupta999
