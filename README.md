@@ -26,6 +26,9 @@ https://linktr.ee/nkrgupta999
 ## Acknowledgments
 This project was inspired by NCERT Chemistry Textbook.
 
+## Code of Conduct
+[Terms and Conditions](CODE_OF_CONDUCT.md)
+
 ## MIT License
 
 Copyright (c) 2023 Nitin Kumar Gupta
